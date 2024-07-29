@@ -4,7 +4,7 @@ This module challenge focused on data analysis with Python's Pandas library. As 
 
 In this challenge, I explored and analyzed a dataset from a fictional e-commerce company, to address real-world business questions like identifying the top customers, popular product categories, calculating profits, and more. 
 ## Setup
-You can run the Jupiter notebook file *wholesale_data_analysis_starter_code.ipynb* It uses the *client_dataset.csv* file as its source data to perform my analysis. 
+You can run the Jupiter notebook file *wholesale_data_analysis_starter_code.ipynb* It uses the *client_dataset.csv* file located in the Resources folder, as its source data to perform my analysis. 
 >I used a lambda function to change the currency format to millions for all columns with a currency
 ## Summary
 After analysis, the top five customers from most profitable to least were:
